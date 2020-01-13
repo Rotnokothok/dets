@@ -8,8 +8,8 @@ How to run the Daily Expense Tracking System  Project
 7.Run the script http://localhost/dets (frontend)
 Credential for user panel  OR you can register your self:
 Username: arif@gmail.com
-Password: 12345
+Password: 1234
 
 habib@gmail.com
-12345
+1234
 
